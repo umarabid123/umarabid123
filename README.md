@@ -46,8 +46,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" />
 </p>
 
----
-
 <!-- ### 🏆 GitHub Trophies
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=umarabid123&theme=onedark&row=2&column=3" />
