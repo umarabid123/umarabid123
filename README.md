@@ -56,16 +56,16 @@
 
 ### 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=umarabid123&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=umarabid123&show_icons=true&theme=tokyonight"  width="30%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=umarabid123&layout=compact&theme=tokyonight" width="30%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=umarabid123&theme=tokyonight" width="30%" />
+</p>
+
+<!-- <p align="center">
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=umarabid123&layout=compact&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=umarabid123&theme=tokyonight" />
-</p>
+</p> -->
 
 <!-- ---
 
