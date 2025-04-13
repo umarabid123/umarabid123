@@ -51,22 +51,22 @@
 
 ### 🏆 GitHub Trophies
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=umarabid709&theme=onedark&row=2&column=3" />
+  <img src="https://github-profile-trophy.vercel.app/?username=umarabid123&theme=onedark&row=2&column=3" />
 </p>
 
 ---
 
 ### 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=umarabid709&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=umarabid123&show_icons=true&theme=tokyonight" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=umarabid709&layout=compact&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=umarabid123&layout=compact&theme=tokyonight" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=umarabid709&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=umarabid123&theme=tokyonight" />
 </p>
 
 ---
