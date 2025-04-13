@@ -8,7 +8,7 @@
 ---
 
 ### 🧑‍💻 About Me
-- 🌱 Currently learning **Backend Development** with **Node.js** and **MongoDB**
+- 🌱 Currently learning **Mobile App Development** with **React Native**
 - 💻 Exploring **Next.js** and **Payload CMS**
 - 📱 Passionate about building **React Native Apps**
 - 🧠 I believe in **continuous learning** and **real-world projects**
