@@ -55,21 +55,15 @@
 
 ### 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=umarabid123&show_icons=true&theme=tokyonight" />
-</p>
-
-<p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=umarabid123&layout=compact&theme=tokyonight" />
-</p>
-
-<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=umarabid123&show_icons=true&theme=tokyonight" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=umarabid123&theme=tokyonight" />
 </p>
 
----
+<!-- <p align="center">
+</p>
 
-### 🔥 Fun Fact
-> I love solving real-world problems and building full-stack projects. Coding is not just a job—it's my passion!
+<p align="center">
+</p>
 
----
-
+--- -->
