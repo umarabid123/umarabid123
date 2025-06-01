@@ -83,12 +83,5 @@
 ---
 
 <div align="center">
-  <h3>🐍 Contribution Graph</h3>
-  <img src="https://github.com/your-username/your-username/blob/main/github-snake-dark.svg" />
-</div>
-
----
-
-<div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=your-username&theme=radical&no-frame=true&no-bg=false&margin-w=4&row=1" />
 </div>
