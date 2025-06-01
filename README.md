@@ -41,16 +41,6 @@
 
 ---
 
-## 🤝 Connect with Me
-
-<p align="center">
-  <a href="https://your-portfolio-link"><img src="https://img.icons8.com/fluent/48/000000/domain.png" alt="website"/></a>
-  <a href="https://www.linkedin.com/in/your-profile/"><img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="linkedin"/></a>
-  <a href="https://www.instagram.com/your-handle/"><img src="https://img.icons8.com/color/48/000000/instagram.png" alt="instagram"/></a>
-</p>
-
----
-
 ## 📊 GitHub Stats
 
 ## <div align="center"> <img width="49%" src="https://github-readme-stats.vercel.app/api?username=umarabid123&show_icons=true&theme=tokyonight&hide_border=true" /> <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=umarabid123&theme=tokyonight&hide_border=true" /> </div> <div align="center"> <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=umarabid123&layout=compact&theme=tokyonight&hide_border=true" /> <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=umarabid123&theme=tokyonight" /> </div>
