@@ -56,24 +56,29 @@
 
 ## <div align="center"> <img width="49%" src="https://github-readme-stats.vercel.app/api?username=umarabid123&show_icons=true&theme=tokyonight&hide_border=true" /> <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=umarabid123&theme=tokyonight&hide_border=true" /> </div> <div align="center"> <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=umarabid123&layout=compact&theme=tokyonight&hide_border=true" /> <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=umarabid123&theme=tokyonight" /> </div>
 
-## 🏆 Hackathon Highlights
+## 🏆 International Hackathon Highlights
 
 <div align="center">
   <table>
     <tr>
       <td align="center">
-        <a href="https://lablab.ai/event/ai-for-connectivity-hackathon-building-resilient-networks" target="_blank">
+        <a href="https://lablab.ai/_next/image?url=https%3A%2F%2Fstorage.googleapis.com%2Flablab-static-eu%2Fcertificates%2F70HT3NG07RAQ.png&w=1080&q=75" target="_blank">
           <img src="https://lablab.ai/_next/image?url=https%3A%2F%2Fstorage.googleapis.com%2Flablab-static-eu%2Fcertificates%2F70HT3NG07RAQ.png&w=1080&q=75" alt="Event 1" width="300">
         </a>
       </td>
       <td align="center">
-        <a href="https://event2-link.com" target="_blank">
-          <img src="https://your-image-link-2.webp" alt="Event 2" width="300">
+        <a href="https://lablab.ai/u/@MuhammadUmar/cm88t682y000y135stpre8n7v" target="_blank">
+          <img src="https://lablab.ai/u/@MuhammadUmar/cm88t682y000y135stpre8n7v" alt="Event 2" width="300">
         </a>
       </td>
       <td align="center">
-        <a href="https://event3-link.com" target="_blank">
-          <img src="https://your-image-link-3.webp" alt="Event 3" width="300">
+        <a href="https://lablab.ai/u/@MuhammadUmar/cm6v2n1eb004e6uo0jfcutt5j" target="_blank">
+          <img src="https://lablab.ai/u/@MuhammadUmar/cm6v2n1eb004e6uo0jfcutt5j" alt="Event 3" width="300">
+        </a>
+      </td>
+      <td align="center">
+        <a href="https://lablab.ai/u/@MuhammadUmar/cmab5fkfc0041c40tjexf75b8" target="_blank">
+          <img src="https://lablab.ai/u/@MuhammadUmar/cmab5fkfc0041c40tjexf75b8" alt="Event 3" width="300">
         </a>
       </td>
     </tr>
