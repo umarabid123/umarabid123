@@ -1,81 +1,104 @@
-<!-- Profile Header -->
-<h1 align="center">Hi 👋, I'm Muhammad Umar</h1>
-<h3 align="center">🚀 A Passionate MERN Stack Developer from Pakistan 🇵🇰</h3>
-
-<!-- Dino GIF on the left, coding GIF on the right -->
-<img align="right" alt="coding" width="400" src="https://camo.githubusercontent.com/2366b34bb903c09617990fb5fff4622f3e941349e846ddb7e73df872a9d21233/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966">
+![Dinosaur Animation](https://github.com/qasim-you/qasim-you/blob/main/dino.gif)
+<h1 align="center">Hi 👋, I'm [Your Name]</h1> 
+<img align="right" alt="coding" width="400" src="https://github.com/qasim-you/qasim-you/blob/main/img.gif">
 
 <p align="left">
-  <img src="https://komarev.com/ghpvc/?username=umarabid709&label=Profile%20views&color=0e75b6&style=flat" alt="umarabid709" />
+  <img src="https://komarev.com/ghpvc/?username=your-username&label=Profile%20views&color=0e75b6&style=flat" alt="your-username" />
 </p>
 
 ---
 
-## 🧑‍💻 About Me
+## 🏆 Hackathon Achievements
 
-- 🌱 Currently learning **Mobile App Development** with **React Native**
-- 💻 Exploring **Next.js** and **Payload CMS**
-- 📱 Passionate about building **React Native Apps**
-- 🧠 I believe in **continuous learning** and **real-world projects**
+- 🥇 [Your Top Achievement]
+- 🥈 [Runner-up, Finalist, etc.]
+- 🚀 Built real-world apps under pressure
 
 ---
 
-## 🛠️ Technical Skills
+## 💻 Technical Skills
+
+<div align="center">
 
 ### 🖥️ Frontend Development
-| Technology | Level | Tools & Frameworks |
-|-----------|--------|--------------------|
-| ![React](https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg) React | Advanced | Redux, Hooks, Router |
-| ![Next.js](https://cdn.worldvectorlogo.com/logos/nextjs-2.svg) Next.js | Intermediate | API Routes, App Router |
-| ![React Native](https://reactnative.dev/img/header_logo.svg) React Native | Learning | Expo, CLI |
-| ![Tailwind](https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg) Tailwind CSS | Advanced | Custom Themes |
-| ![Typescript](https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg) TypeScript | Intermediate | Generics |
+| Technology | Skill Level | Tools & Frameworks |
+|------------|-------------|--------------------|
+| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="30"/> React.js | Advanced | Redux, Hooks |
+| <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" width="30"/> Next.js | Intermediate | App Router |
+| <img src="https://reactnative.dev/img/header_logo.svg" width="30"/> React Native | Intermediate | Expo, CLI |
+| <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="30"/> Tailwind CSS | Advanced | Custom config |
+| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="30"/> JavaScript | Advanced | ES6+, DOM |
 
-### ⚙️ Backend & Database
-| Technology | Level | Tools |
-|-----------|--------|-----------------|
-| ![Node.js](https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg) Node.js | Advanced | Express, JWT |
-| ![MongoDB](https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg) MongoDB | Advanced | Mongoose |
-| ![Firebase](https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg) Firebase | Intermediate | Firestore, Auth |
-| ![MySQL](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg) MySQL | Basic | Joins, SQL |
-| ![Python](https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg) Python | Basic | Scripts |
+### ⚙️ Backend Development
+| Technology | Skill Level | Tools & Frameworks |
+|------------|-------------|--------------------|
+| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="30"/> Node.js | Intermediate | Express |
+| <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" width="30"/> Firebase | Intermediate | Auth, Firestore |
+| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="30"/> MongoDB | Intermediate | Mongoose |
+| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="30"/> PostgreSQL | Beginner | Prisma |
+| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="30"/> TypeScript | Intermediate | Type Safety |
 
----
-
-## 📈 GitHub Stats
-
-<div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=umarabid709&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=umarabid709&theme=tokyonight&hide_border=true" />
-</div>
-
-<div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=umarabid709&layout=compact&theme=tokyonight&hide_border=true" />
-  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=umarabid709&theme=tokyonight" />
 </div>
 
 ---
 
-## 🌐 Connect with Me
+## 🤝 Connect with Me
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/umarabid709" target="_blank">
-    <img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn" />
-  </a>
-  <a href="mailto:umarabid709@gmail.com">
-    <img src="https://img.icons8.com/color/48/000000/gmail-new.png" alt="Gmail" />
-  </a>
-  <a href="https://github.com/umarabid709" target="_blank">
-    <img src="https://img.icons8.com/ios-filled/50/000000/github.png" alt="GitHub" />
-  </a>
+  <a href="https://your-portfolio-link"><img src="https://img.icons8.com/fluent/48/000000/domain.png" alt="website"/></a>
+  <a href="https://www.linkedin.com/in/your-profile/"><img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="linkedin"/></a>
+  <a href="https://www.instagram.com/your-handle/"><img src="https://img.icons8.com/color/48/000000/instagram.png" alt="instagram"/></a>
 </p>
 
 ---
 
-<!-- Optional Hackathon or Fun Fact section -->
-<!-- 
-## 🏆 Hackathon Highlights
-- ✨ Finalist at XYZ Hackathon
-- 🧠 Built a mobile app in 12 hours during SMIT Hackathon
--->
+## 📊 GitHub Stats
 
+<div align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=your-username&theme=tokyonight&hide_border=true" />
+</div>
+
+<div align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=tokyonight&hide_border=true" />
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=your-username&theme=tokyonight" />
+</div>
+
+---
+
+## 🏆 Hackathon Highlights
+
+<div align="center">
+  <table>
+    <tr>
+      <td align="center">
+        <a href="https://event1-link.com" target="_blank">
+          <img src="https://your-image-link-1.webp" alt="Event 1" width="300">
+        </a>
+      </td>
+      <td align="center">
+        <a href="https://event2-link.com" target="_blank">
+          <img src="https://your-image-link-2.webp" alt="Event 2" width="300">
+        </a>
+      </td>
+      <td align="center">
+        <a href="https://event3-link.com" target="_blank">
+          <img src="https://your-image-link-3.webp" alt="Event 3" width="300">
+        </a>
+      </td>
+    </tr>
+  </table>
+</div>
+
+---
+
+<div align="center">
+  <h3>🐍 Contribution Graph</h3>
+  <img src="https://github.com/your-username/your-username/blob/main/github-snake-dark.svg" />
+</div>
+
+---
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=your-username&theme=radical&no-frame=true&no-bg=false&margin-w=4&row=1" />
+</div>
