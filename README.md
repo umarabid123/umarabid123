@@ -7,10 +7,9 @@
 ---
 
 ## 🏆 Hackathon Achievements
-
-- 🥇 [Your Top Achievement]
-- 🥈 [Runner-up, Finalist, etc.]
-- 🚀 Built real-world apps under pressure
+- 🥇 Solved all 9 puzzles in the Harvard Hackathon
+- 🌟 Reached the final round in Lablab AI Hackathons
+- 🚀 Built real projects in very short time
 
 ---
 
