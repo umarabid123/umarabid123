@@ -1,5 +1,3 @@
-![Dinosaur Animation](https://github.com/qasim-you/qasim-you/blob/main/dino.gif)
-
 <h1 align="center">Hi 👋, I'm Muhammad Umar</h1>
 
 <p align="left">
