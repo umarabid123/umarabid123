@@ -62,8 +62,8 @@
   <table>
     <tr>
       <td align="center">
-        <a href="https://event1-link.com" target="_blank">
-          <img src="https://your-image-link-1.webp" alt="Event 1" width="300">
+        <a href="https://lablab.ai/event/ai-for-connectivity-hackathon-building-resilient-networks" target="_blank">
+          <img src="https://lablab.ai/_next/image?url=https%3A%2F%2Fstorage.googleapis.com%2Flablab-static-eu%2Fcertificates%2F70HT3NG07RAQ.png&w=1080&q=75" alt="Event 1" width="300">
         </a>
       </td>
       <td align="center">
